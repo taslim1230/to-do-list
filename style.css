@@ -32,6 +32,10 @@ input {
   border-radius: 8px;
 }
 
+.about{
+    color: red;
+}
+
 button {
   margin-left: 8px;
   padding: 8px 12px;
